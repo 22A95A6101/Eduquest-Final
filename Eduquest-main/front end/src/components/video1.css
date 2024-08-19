@@ -1,0 +1,30 @@
+.video-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 10px;
+  background-image: linear-gradient(rgb(223, 157, 223), rgb(229, 229, 163), rgb(124, 198, 247));
+}
+
+/* .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #fff;
+  border-bottom: 1px solid #ccc;
+}
+
+.logo {
+  height: 40px;
+}
+
+.links a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+.links a:hover {
+  text-decoration: underline;
+} */
